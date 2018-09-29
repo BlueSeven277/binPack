@@ -1,0 +1,8 @@
+***Author：Ruoxi Shi******
+1.Class Bin is used to define the structure of the bins
+2.For the other classes, each class implement one algorithm, BestFit contains the naive BF and
+our improved algorithm BFP
+3.How to run?
+  Run the main function of each class.
+  The current test case is case 3. Test case 1 and case 2 are commented. Uncomment the code if you want to test them.
+  The output is the number of bins needed to pack the given boxes. Runtime is also printed.
